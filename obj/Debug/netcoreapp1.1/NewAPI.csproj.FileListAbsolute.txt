@@ -1,0 +1,8 @@
+/Users/saleslopes/Projects/NewAPI/bin/Debug/netcoreapp1.1/NewAPI.deps.json
+/Users/saleslopes/Projects/NewAPI/bin/Debug/netcoreapp1.1/NewAPI.runtimeconfig.json
+/Users/saleslopes/Projects/NewAPI/bin/Debug/netcoreapp1.1/NewAPI.runtimeconfig.dev.json
+/Users/saleslopes/Projects/NewAPI/bin/Debug/netcoreapp1.1/NewAPI.dll
+/Users/saleslopes/Projects/NewAPI/bin/Debug/netcoreapp1.1/NewAPI.pdb
+/Users/saleslopes/Projects/NewAPI/obj/Debug/netcoreapp1.1/NewAPI.AssemblyInfo.cs
+/Users/saleslopes/Projects/NewAPI/obj/Debug/netcoreapp1.1/NewAPI.dll
+/Users/saleslopes/Projects/NewAPI/obj/Debug/netcoreapp1.1/NewAPI.pdb
